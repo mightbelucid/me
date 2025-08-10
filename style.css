@@ -111,6 +111,8 @@ html{
     padding: 20px;
     margin-top: 40px;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.306);
+    padding: 20px;
+    margin-bottom: 1000px;
 
 }
 
@@ -125,8 +127,9 @@ html{
     justify-content: center;
     gap: 20px;
 }
-#links a img {
+#links a img
+{
     width: 70px; 
     height: auto;
-    color: aliceblue;
+    color: ;
 }
