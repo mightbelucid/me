@@ -19,9 +19,10 @@ html{
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     scroll-behavior: smooth;
     overflow:visible;
+    overscroll-behavior: none;
 }
 
 .title, .subtitle{
@@ -132,5 +133,4 @@ html{
 {
     width: 70px; 
     height: auto;
-    color: ;
 }
